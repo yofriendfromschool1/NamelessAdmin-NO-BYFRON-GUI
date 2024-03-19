@@ -17,7 +17,7 @@
  end
  
  -- Notification library
- local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/FE/main/notificationtest"))();
+ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/NamelessAdmin-NO-BYFRON-GUI/main/notificationtest.txt"))();
  local Notify = Notification.Notify;
 
  Notify({
@@ -15102,7 +15102,7 @@ end
  end)
  
  -- all this does is print i dont know why i made it a loadstring
- loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/FE/main/asd"))();
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/NamelessAdmin-NO-BYFRON-GUI/main/asd.txt"))();
  
  -- never used this lol
  function Destroy(guiObject)
